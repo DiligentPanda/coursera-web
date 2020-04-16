@@ -1,13 +1,15 @@
 .navbar-header button {
-    margin-top: 15px;
+    margin-top: 25px;
     margin-bottom: 15px;
     margin-right: 0px;
 }
 
-.navbar-header .navbar-brand h2 {
-    margin-top: 0px;
-    margin-bottom: 0px;
+.navbar-header .navbar-brand {
+    padding: 0px;
+    margin-top: 30px;
+    margin-bottom: 10px;
     color: darkcyan;
+    font-size: 3em;
 }
 
 
