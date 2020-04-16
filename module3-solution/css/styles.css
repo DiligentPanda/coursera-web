@@ -4,12 +4,14 @@
     margin-right: 0px;
 }
 
-.navbar-header .navbar-brand {
+.navbar .container-fluid .navbar-header .navbar-brand {
     padding: 0px;
     margin-top: 30px;
     margin-bottom: 10px;
     color: darkcyan;
     font-size: 3em;
+    margin-right: 0px;
+    margin-left: 0px;
 }
 
 
