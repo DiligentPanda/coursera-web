@@ -1,0 +1,32 @@
+.navbar-header button {
+    margin-top: 25px;
+    margin-bottom: 10px;
+    margin-right: 0px;
+}
+
+
+section {
+    background-color: bisque;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.container-fluid {
+    margin-right: 20px;
+    margin-left: 20px
+}
+
+#collapsable-nav a{
+    background-color: yellowgreen;
+    color: green;
+}
+
+#collapsable-nav a:hover{
+    color: orange;
+    background-color: yellow;
+}
+
+.navbar > .container-fluid > .navbar-header {
+    margin-left: 0px;
+    margin-right: 0px;
+}
