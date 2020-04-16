@@ -16,9 +16,8 @@
 
 
 section {
-    background-color: bisque;
-    margin-top: 20px;
-    margin-bottom: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .container-fluid {
@@ -39,4 +38,9 @@ section {
 .navbar > .container-fluid > .navbar-header {
     margin-left: 0px;
     margin-right: 0px;
+}
+
+.food-content {
+    background-color: bisque;
+    padding: 15px;
 }
